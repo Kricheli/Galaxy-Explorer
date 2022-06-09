@@ -14,7 +14,7 @@ export default function ImagePreview({
         <div className="galleryVideo">
           <img
             src={videoPreview}
-            key={title}
+            alt={title}
             className="Img_Grid"
             onClick={() => setShow(true)}
           />
