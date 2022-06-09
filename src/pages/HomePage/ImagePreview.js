@@ -8,6 +8,7 @@ export default function ImagePreview({ nasaPicture, title, description }) {
       <div class="responsive">
         <div class="gallery">
           <img
+            alt={title}
             src={nasaPicture}
             class="Img_Grid"
             onClick={() => setShow(true)}
@@ -23,7 +24,7 @@ export default function ImagePreview({ nasaPicture, title, description }) {
         aria-labelledby="example-custom-modal-styling-title"
         className="Modal"
       >
-        <img src={nasaPicture} />
+        <img alt={title} src={nasaPicture} />
         <div className="container-Modal">
           <h1 className="Title_Modal">{title}</h1>
           <p className="description_Modal">{description}</p>
