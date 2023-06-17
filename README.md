@@ -1,4 +1,5 @@
-![Copy of E-Com (1)](https://github.com/Kricheli/Galaxy-Explorer/assets/100904506/026a40f4-409c-483f-9990-56a19c9ec457)
+![Copy of E-Com (2)](https://github.com/Kricheli/Galaxy-Explorer/assets/100904506/4c8fda7c-ab13-4614-8e4f-8a9ed3846a29)
+
 
 # Galaxy Explorer- React App
 
@@ -7,9 +8,13 @@ Galaxy Explorer is a search engine for videos and photos of stars in the galaxie
  </p>
 
 <div align="center">
+
+
+
+<img src="https://github.com/Kricheli/Galaxy-Explorer/assets/100904506/5d64c331-3405-4732-9419-67f89ec25156" width="100" height="100"/>
     
-<img src="https://github.com/Kricheli/Galaxy-Explorer/assets/100904506/f56f523f-8d80-44e3-b6aa-6c9791f1e40d" width="100" height="100"/>
-    
+
+ 
  [Live Demo- Galaxy Explorer](https://exquisite-pixie-b9d288.netlify.app/)
    </div>
     
