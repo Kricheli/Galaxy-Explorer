@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Nasa_App
-=======
 ![Copy of E-Com (2)](https://github.com/Kricheli/Galaxy-Explorer/assets/100904506/4c8fda7c-ab13-4614-8e4f-8a9ed3846a29)
 
 # Galaxy Explorer- React App
@@ -34,4 +31,3 @@ Galaxy Explorer is a search engine for videos and photos of stars in the galaxie
 <div align="center">
  <img alt="alt_text" width="400px" src="https://github.com/Kricheli/Galaxy-Explorer/assets/100904506/aa3e7d5d-0314-4765-bc4d-2d5f1bc99b92" />
 </div>
->>>>>>> ba348ed1b9f61f5c5e47069bd26faaa6297439e8
