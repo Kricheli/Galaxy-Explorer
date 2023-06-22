@@ -1,10 +1,10 @@
 import React from 'react'
-import { BrowserRouter, Route } from '../../node_modules/react-router-dom'
+import { BrowserRouter, Route } from 'react-router-dom'
 import HomePage from '../pages/HomePage/HomePage'
 import '../App.css'
 import AnyPhoto from '../pages/AnyPhoto/AnyPhoto'
 import HomeVideo from '../pages/HomeVideo/HomeVideo'
-require('dotenv').config()
+// require('dotenv').config()
 
 export const Router = () => {
   return (
