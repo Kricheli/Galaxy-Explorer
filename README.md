@@ -9,9 +9,9 @@ Galaxy Explorer is a search engine for videos and photos of stars in the galaxie
 
 <div align="center">
     
-[<img alt="alt_text" width="120px" src="https://github.com/Kricheli/Galaxy-Explorer/assets/100904506/48b30122-27f4-42e4-b5a6-d8529e8e5f2d" />]("https://exquisite-pixie-b9d288.netlify.app/")
+[<img alt="alt_text" width="120px" src="https://github.com/Kricheli/Galaxy-Explorer/assets/100904506/48b30122-27f4-42e4-b5a6-d8529e8e5f2d" />]("https://mellifluous-gingersnap-91a187.netlify.app/")
  
-[Live Demo- Galaxy Explorer](https://exquisite-pixie-b9d288.netlify.app/)
+[Live Demo- Galaxy Explorer](https://mellifluous-gingersnap-91a187.netlify.app/)
    </div>
     
 
